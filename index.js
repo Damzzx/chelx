@@ -260,9 +260,9 @@ function getTargetId(msg) {
 
 //AKUN MMENU 
 
-const GITHUB_REPO = 'AttMinz/x';
+const GITHUB_REPO = 'chelx';
 const GITHUB_FILE_PATH = 'x2.json'; 
-const GITHUB_TOKEN = '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';
+const GITHUB_TOKEN = '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';
 
 // -------- State --------
 const manageState = {};      
